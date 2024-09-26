@@ -1,0 +1,3 @@
+[submodule "placement"]
+	path = placement
+	url = https://github.com/not-really-vxn/placement.git
